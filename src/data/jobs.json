@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Veterinary Data Scientist",
+    "company": "PetHealth Analytics",
+    "location": "San Francisco, CA (Remote)",
+    "description": "We're seeking a veterinarian with data science expertise to lead our clinical research initiatives. You'll work with large-scale veterinary datasets to identify health patterns, develop predictive models, and drive evidence-based product decisions. Requirements include DVM degree, 3+ years of data science experience, and proficiency in Python/R.",
+    "link": "https://jobs.example.com/senior-vet-data-scientist",
+    "postedDate": "2024-08-10"
+  },
+  {
+    "id": "2",
+    "title": "Product Manager - Veterinary Software",
+    "company": "VetTech Solutions",
+    "location": "Austin, TX",
+    "description": "Join our product team to shape the future of veterinary practice management software. We need a veterinarian who can bridge clinical needs with technical solutions. You'll own product roadmap, work with engineering teams, and ensure our software truly serves veterinary professionals. 5+ years clinical experience preferred.",
+    "link": "https://jobs.example.com/pm-vet-software",
+    "postedDate": "2024-08-12"
+  },
+  {
+    "id": "3",
+    "title": "Clinical AI Research Veterinarian",
+    "company": "MedVet AI",
+    "location": "Boston, MA",
+    "description": "Lead the development of AI-powered diagnostic tools for companion animals. You'll design clinical validation studies, review AI model outputs, and ensure clinical accuracy of our products. This role combines cutting-edge AI research with veterinary medicine. PhD or equivalent research experience preferred.",
+    "link": "https://jobs.example.com/clinical-ai-research-vet",
+    "postedDate": "2024-08-14"
+  },
+  {
+    "id": "4",
+    "title": "Veterinary Technology Consultant",
+    "company": "Digital Health Ventures",
+    "location": "New York, NY (Hybrid)",
+    "description": "Advise healthcare technology startups on veterinary market opportunities and product development. You'll evaluate business models, provide clinical expertise, and help companies navigate regulatory requirements. Perfect for entrepreneurial veterinarians interested in multiple projects.",
+    "link": "https://jobs.example.com/vet-tech-consultant",
+    "postedDate": "2024-08-13"
+  },
+  {
+    "id": "5",
+    "title": "Director of Veterinary Affairs",
+    "company": "PetCare Technologies",
+    "location": "Seattle, WA",
+    "description": "Lead our veterinary affairs team and serve as the clinical voice in product development. You'll oversee regulatory compliance, clinical studies, and veterinary education programs. This senior role requires 10+ years of veterinary experience and leadership skills.",
+    "link": "https://jobs.example.com/director-vet-affairs",
+    "postedDate": "2024-08-09"
+  },
+  {
+    "id": "6",
+    "title": "Telemedicine Platform Veterinarian",
+    "company": "Virtual Vet Connect",
+    "location": "Remote",
+    "description": "Provide remote veterinary consultations through our telemedicine platform while helping improve the technology and user experience. Part-time opportunity with flexible hours. Must be licensed veterinarian with interest in digital health innovation.",
+    "link": "https://jobs.example.com/telemedicine-platform-vet",
+    "postedDate": "2024-08-11"
+  },
+  {
+    "id": "7",
+    "title": "Software Engineer - Veterinary Applications",
+    "company": "AnimalTech Innovations",
+    "location": "Denver, CO",
+    "description": "Join our engineering team as a veterinarian who codes! You'll develop software solutions for veterinary practices while ensuring clinical accuracy and usability. Requirements include programming experience (any language) and strong understanding of veterinary workflows.",
+    "link": "https://jobs.example.com/software-engineer-vet",
+    "postedDate": "2024-08-08"
+  },
+  {
+    "id": "8",
+    "title": "Regulatory Affairs Specialist - Veterinary Devices",
+    "company": "BioVet Regulatory",
+    "location": "Washington, DC",
+    "description": "Navigate FDA and international regulatory processes for veterinary medical devices and software. You'll prepare regulatory submissions, interact with regulatory bodies, and ensure compliance. Ideal for detail-oriented veterinarians interested in regulatory science.",
+    "link": "https://jobs.example.com/regulatory-affairs-vet-devices",
+    "postedDate": "2024-08-07"
+  },
+  {
+    "id": "9",
+    "title": "UX Research Lead - Pet Health Apps",
+    "company": "PetUX Design Studio",
+    "location": "Los Angeles, CA (Remote)",
+    "description": "Lead user experience research for pet health applications. You'll conduct user interviews, design studies, and ensure our products meet the real needs of pet owners and veterinarians. Background in UX research or strong interest in learning required.",
+    "link": "https://jobs.example.com/ux-research-lead-pet-health",
+    "postedDate": "2024-08-06"
+  },
+  {
+    "id": "10",
+    "title": "Business Development Manager - Veterinary Partnerships",
+    "company": "HealthTech Partners",
+    "location": "Chicago, IL",
+    "description": "Build strategic partnerships with veterinary practices, hospitals, and academic institutions. You'll identify collaboration opportunities, negotiate partnerships, and help expand our market presence in the veterinary sector. Sales or business development experience preferred.",
+    "link": "https://jobs.example.com/biz-dev-vet-partnerships",
+    "postedDate": "2024-08-05"
+  }
+]

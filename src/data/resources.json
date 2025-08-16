@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Data Science for Veterinarians",
+    "description": "A comprehensive online course covering the fundamentals of data science, statistics, and machine learning specifically tailored for veterinary professionals. Learn to analyze clinical data, identify patterns, and make data-driven decisions in veterinary practice.",
+    "link": "https://coursera.org/veterinary-data-science",
+    "category": "courses"
+  },
+  {
+    "id": "2",
+    "title": "Product Management for Healthcare Technology",
+    "description": "Master the skills needed to manage technology products in healthcare settings. This course covers user research, product strategy, agile development, and regulatory considerations specific to medical and veterinary technology products.",
+    "link": "https://udemy.com/healthcare-product-management",
+    "category": "courses"
+  },
+  {
+    "id": "3",
+    "title": "The Digital Transformation of Veterinary Medicine",
+    "description": "An in-depth article exploring how digital technologies are reshaping veterinary practice, from telemedicine and AI diagnostics to practice management systems and client communication platforms.",
+    "link": "https://veterinaryjournal.com/digital-transformation",
+    "category": "articles"
+  },
+  {
+    "id": "4",
+    "title": "Veterinary Practice Management Software Comparison",
+    "description": "A comprehensive comparison of leading veterinary practice management systems, including features, pricing, integration capabilities, and user reviews to help practices choose the right technology solution.",
+    "link": "https://vettech-reviews.com/practice-management",
+    "category": "tools"
+  },
+  {
+    "id": "5",
+    "title": "AI in Veterinary Diagnostics: Current Applications and Future Potential",
+    "description": "Research paper examining the current state of artificial intelligence applications in veterinary diagnostics, including imaging analysis, laboratory data interpretation, and clinical decision support systems.",
+    "link": "https://journals.plos.org/ai-vet-diagnostics",
+    "category": "research"
+  },
+  {
+    "id": "6",
+    "title": "Building Successful Veterinary Technology Startups",
+    "description": "Join industry experts as they discuss the key factors for success in veterinary technology entrepreneurship, including market validation, funding strategies, and regulatory navigation.",
+    "link": "https://webinar.vettech/startup-success",
+    "category": "webinars"
+  },
+  {
+    "id": "7",
+    "title": "Telemedicine Platform for Veterinary Consultations",
+    "description": "A secure, HIPAA-compliant telemedicine platform designed specifically for veterinary consultations. Features include video calls, file sharing, electronic prescriptions, and integration with practice management systems.",
+    "link": "https://vetconnect-platform.com",
+    "category": "tools"
+  },
+  {
+    "id": "8",
+    "title": "Introduction to Machine Learning with Python",
+    "description": "Learn the fundamentals of machine learning and Python programming. This beginner-friendly course includes hands-on projects using real datasets and practical applications relevant to healthcare and veterinary contexts.",
+    "link": "https://python-ml-course.edu",
+    "category": "courses"
+  },
+  {
+    "id": "9",
+    "title": "Ethics of AI in Veterinary Medicine",
+    "description": "An important discussion on the ethical considerations of implementing artificial intelligence in veterinary practice, covering topics such as bias, transparency, accountability, and the veterinarian-client-patient relationship.",
+    "link": "https://vet-ethics-journal.org/ai-ethics",
+    "category": "articles"
+  },
+  {
+    "id": "10",
+    "title": "Regulatory Requirements for Veterinary Medical Devices",
+    "description": "Comprehensive guide to understanding FDA and international regulatory requirements for veterinary medical devices and software, including classification, approval processes, and compliance strategies.",
+    "link": "https://regulatory-guide.vettech.org",
+    "category": "articles"
+  },
+  {
+    "id": "11",
+    "title": "Digital Health Transformation in Veterinary Practice",
+    "description": "Learn how to successfully implement digital health technologies in veterinary practice. This webinar covers change management, staff training, client adoption, and measuring ROI of technology investments.",
+    "link": "https://webinar.vettech/digital-transformation",
+    "category": "webinars"
+  },
+  {
+    "id": "12",
+    "title": "Veterinary Technology Innovation Report 2024",
+    "description": "Annual report analyzing trends in veterinary technology innovation, investment patterns, emerging technologies, and market opportunities. Includes insights from industry leaders and startup founders.",
+    "link": "https://innovation-report.vettech.org/2024",
+    "category": "research"
+  },
+  {
+    "id": "13",
+    "title": "UX/UI Design for Healthcare Applications",
+    "description": "Master the principles of user experience and interface design specifically for healthcare applications. Learn about accessibility, usability testing, and designing for clinical workflows and patient safety.",
+    "link": "https://design-course.healthtech.edu",
+    "category": "courses"
+  },
+  {
+    "id": "14",
+    "title": "Clinical Data Analytics Dashboard",
+    "description": "A powerful analytics tool that helps veterinary practices visualize and analyze their clinical data. Features include customizable dashboards, automated reporting, and integration with major practice management systems.",
+    "link": "https://vet-analytics-platform.com",
+    "category": "tools"
+  },
+  {
+    "id": "15",
+    "title": "Wearable Technology for Animal Health Monitoring",
+    "description": "Research study evaluating the effectiveness of wearable devices for continuous health monitoring in companion animals, including activity tracking, vital sign monitoring, and early disease detection.",
+    "link": "https://animal-wearables-study.org",
+    "category": "research"
+  }
+]

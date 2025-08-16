@@ -1,0 +1,69 @@
+[
+  {
+    "id": "1",
+    "title": "AI in Veterinary Diagnostics: Current State and Future Prospects",
+    "date": "2024-09-15",
+    "location": "Virtual Event",
+    "description": "Join us for an in-depth discussion on how artificial intelligence is transforming veterinary diagnostics. We'll explore current applications, emerging technologies, and the challenges and opportunities that lie ahead. Featured speakers include veterinarians from leading tech companies and AI researchers.",
+    "rsvpLink": "https://example.com/rsvp/ai-vet-diagnostics"
+  },
+  {
+    "id": "2",
+    "title": "Career Transition Panel: From Clinic to Silicon Valley",
+    "date": "2024-10-03",
+    "location": "San Francisco, CA",
+    "description": "Hear firsthand experiences from veterinarians who have successfully transitioned from clinical practice to technology roles. Our panelists will share insights on navigating career changes, developing relevant skills, and finding opportunities in the tech industry.",
+    "rsvpLink": "https://example.com/rsvp/career-transition-panel"
+  },
+  {
+    "id": "3",
+    "title": "Telemedicine in Veterinary Practice: Technology and Ethics",
+    "date": "2024-10-20",
+    "location": "Virtual Event",
+    "description": "Explore the rapidly evolving landscape of veterinary telemedicine. We'll discuss the latest technology platforms, regulatory considerations, ethical implications, and best practices for implementing telemedicine solutions in veterinary practice.",
+    "rsvpLink": "https://example.com/rsvp/telemedicine-vet"
+  },
+  {
+    "id": "4",
+    "title": "Data Science Bootcamp for Veterinarians",
+    "date": "2024-11-12",
+    "location": "Austin, TX",
+    "description": "A hands-on workshop designed specifically for veterinarians interested in data science. Learn fundamental concepts in statistics, machine learning, and data analysis with real veterinary datasets. No prior programming experience required.",
+    "rsvpLink": "https://example.com/rsvp/data-science-bootcamp"
+  },
+  {
+    "id": "5",
+    "title": "Building Better Vet Tech Products: A Design Thinking Workshop",
+    "date": "2024-12-05",
+    "location": "Boston, MA",
+    "description": "Learn how to apply design thinking principles to create technology solutions that truly meet the needs of veterinary professionals and pet owners. This interactive workshop will cover user research, prototyping, and validation techniques.",
+    "rsvpLink": "https://example.com/rsvp/design-thinking-workshop"
+  },
+  {
+    "id": "6",
+    "title": "Vet Tech Herd Annual Meetup 2024",
+    "date": "2024-07-18",
+    "location": "Chicago, IL",
+    "description": "Our annual in-person gathering brought together over 200 veterinarians working in technology. The event featured keynote presentations, networking sessions, and collaborative workshops focused on the future of veterinary technology.",
+    "rsvpLink": "https://example.com/events/annual-meetup-2024",
+    "isPast": true
+  },
+  {
+    "id": "7",
+    "title": "Startup Pitch Night: Veterinary Innovation Showcase",
+    "date": "2024-06-10",
+    "location": "Virtual Event",
+    "description": "Veterinarian entrepreneurs presented their innovative technology solutions to a panel of investors and industry experts. Featured startups focused on areas including practice management, diagnostic tools, and pet health monitoring.",
+    "rsvpLink": "https://example.com/events/pitch-night-2024",
+    "isPast": true
+  },
+  {
+    "id": "8",
+    "title": "Women in Vet Tech Leadership Forum",
+    "date": "2024-05-22",
+    "location": "Seattle, WA",
+    "description": "A focused discussion on leadership opportunities and challenges for women veterinarians in technology. The forum addressed career advancement strategies, mentorship, and creating inclusive workplace cultures.",
+    "rsvpLink": "https://example.com/events/women-leadership-forum",
+    "isPast": true
+  }
+]
